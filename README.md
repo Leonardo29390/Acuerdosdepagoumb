@@ -28,3 +28,28 @@ Esta separación aporta múltiples beneficios:
 - Permite reutilizar el mismo servidor para distintos clientes o interfaces.
 
 En el ejercicio desarrollado, esta separación se refleja en el uso del frontend como base del sistema, respetando las buenas prácticas de la ingeniería web.
+
+
+## Guía para clonar y ejecutar el proyecto localmente
+
+Sigue estos pasos para obtener una copia del proyecto y visualizarlo en tu máquina local.
+
+### Requisitos
+- Git
+- Node.js (incluye npm)
+
+### Clonar el repositorio
+Abre una terminal y ejecuta:
+```bash
+git clone https://github.com/USUARIO/NOMBRE_DEL_REPOSITORIO.git
+Ingresa a la carpeta del proyecto:
+
+cd NOMBRE_DEL_REPOSITORIO
+Instalar dependencias
+npm install
+Ejecutar el proyecto
+npm start
+Visualización
+Abre tu navegador en:
+
+http://localhost:3000
