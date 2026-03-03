@@ -1,7 +1,7 @@
 \# Planificación del DOM  
 \## Sistema de Inscripción para Estudiantes con Acuerdo de Pago - UMB  
 <br/>\---  
-<br/>\## 📌 Resumen  
+<br/>\## Resumen  
 <br/>Este documento presenta la planificación del Document Object Model (DOM) para el Sistema de Inscripción de la UMB dirigido a estudiantes con acuerdo de pago. Se define una estructura base común utilizando etiquetas semánticas de HTML5 que garantizan accesibilidad, mantenibilidad y optimización SEO. Asimismo, se detallan las vistas específicas según el rol del usuario (Estudiante, Coordinador Académico, Área Financiera y Administrador), estableciendo la jerarquía del DOM en cada caso.  
 <br/>El documento también contempla el uso de atributos ARIA para mejorar la accesibilidad, así como la manipulación dinámica del DOM mediante JavaScript para actualizar información en tiempo real sin recargar la página. Finalmente, se incluyen consideraciones de usabilidad y accesibilidad basadas en buenas prácticas y estándares como WCAG, asegurando que el sistema sea inclusivo, eficiente y escalable.  
 <br/>\---  
